@@ -1,0 +1,33 @@
+body{
+    background: #111;
+
+}
+.card{
+    color: white;
+    font-weight: bold;
+    background-color: #444;
+    text-align: center;
+}
+.none{
+    display: none;
+}
+
+.btn{
+    padding: 1px;
+}
+.checked{
+    background-color: grey !important;
+    text-decoration: line-through;
+}
+
+.display{
+    display: block;
+}
+
+@media (max-width:720px){
+   .h111{
+    font-size:  25px;
+
+   }
+
+}
